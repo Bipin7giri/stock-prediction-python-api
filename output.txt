@@ -1,0 +1,17 @@
+{
+    "predicted_price": 642.7149047851562,
+    "symbol": "NABIL"
+}
+{
+    "predicted_price": 1036.8665771484375,
+    "symbol": "NIL"
+}
+
+{
+    "predicted_price": 558.4585571289062,
+    "symbol": "NICA"
+}
+{
+    "predicted_price": 418.64703369140625,
+    "symbol": "ADBL"
+}
