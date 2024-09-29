@@ -4,8 +4,10 @@ import requests
 from flask import Flask, request, jsonify
 from sklearn.preprocessing import MinMaxScaler
 from tensorflow.keras.models import load_model
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)
 
 # Load the pre-trained model
 model = load_model('stock_lstm_model.h5')
